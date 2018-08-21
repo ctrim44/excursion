@@ -15,14 +15,14 @@ p {
 	color: gray;
 }
 
+a {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
 .header {
 	font-weight: normal;
 	font-size: 50px;
-}
-
-.download {
-	color: Aquamarine;
-	font-size: 16px;
 }
 
 .copyright {
